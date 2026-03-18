@@ -33,3 +33,7 @@ cd yourpath/to/inference/script
 python inference.py
 ```
 😁strongly recommand u to storage the inference.py under the openvla folder
+
+If everything goes on well, then you will see:
+<img width="594" height="233" alt="image" src="https://github.com/user-attachments/assets/e7424dc0-71e5-4517-bf1e-aad3d05a144b" />
+
